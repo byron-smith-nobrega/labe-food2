@@ -66,7 +66,7 @@ const RestaurantPage = () => {
       }
     }
   }
-
+  
   const renderData = () => {
     let result = []
     for (let i = 0; i < categories.length; i++) {
